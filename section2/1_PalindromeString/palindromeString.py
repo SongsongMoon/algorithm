@@ -16,3 +16,8 @@ for i in range(cntCase):
             break
     else:
         print("#%d YES" %(i+1))
+
+# array[::-1] --> reversed
+# print("%d" %i)
+# len()
+# // 나눈 후 소수점 이하 버림
