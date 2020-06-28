@@ -15,7 +15,6 @@ for i in range(cntArr-1):
             break
 
 print(res)
-print("test case : %d" %cntTest)
 
 """
 a = ['a', 'b', 'c', 'd', 'e']
