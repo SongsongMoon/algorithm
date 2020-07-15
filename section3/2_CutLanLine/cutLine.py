@@ -26,9 +26,3 @@ while low <= height:
 
 
 print(maxLength)
-"""
-188 ~ 249
-218 ~ 249
-233 ~ 249
-
-"""
